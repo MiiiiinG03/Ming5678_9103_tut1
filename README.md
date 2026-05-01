@@ -42,7 +42,10 @@ Text inbetween
 
 Make sure to run `setup()` first
 
-、、、
+```
 function helloWorld() {
-    console.log()
+    console.log("Hello, world!");
 }
+```
+
+> This is a blockquote.
