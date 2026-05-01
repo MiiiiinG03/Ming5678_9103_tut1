@@ -38,7 +38,7 @@ Text inbetween
 
 ![An image of a cat](https://assets-au-01.kc-usercontent.com/0a5c9512-a993-020c-49e0-57aca041fd7a/2816b6b5-db9b-4afb-8942-0a35a731b403/article-cat-meows-mean.jpg)
 
-![An image of Mona Lisa](Images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An image of Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 Make sure to run `setup()` first
 
